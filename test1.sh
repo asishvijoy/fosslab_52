@@ -6,4 +6,4 @@ echo $0
 echo $HOME
 echo $OSTYPE
 echo $PWD
-users | wc -w
+users | wc -wgghhhthrgtfr
